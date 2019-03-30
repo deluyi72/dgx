@@ -1,3 +1,6 @@
-#coding=utf-8
 
-print "hello world"
+print "world hello"
+print "world hello"
+print "world hello"
+print "world hello"
+print "world hello"
